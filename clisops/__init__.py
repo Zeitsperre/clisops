@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-
-"""Top-level package for clisops.
-clisops - Climate Simulations Operations"""
-
-__author__ = """Elle Smith"""
-__contact__ = "eleanor.smith@stfc.ac.uk"
-__copyright__ = "Copyright 2018 United Kingdom Research and Innovation"
-__license__ = "BSD"
-__version__ = "0.1.0"
+"""Top-level package for clisops."""
+from .__version__ import __author__
+from .__version__ import __email__
+from .__version__ import __version__
